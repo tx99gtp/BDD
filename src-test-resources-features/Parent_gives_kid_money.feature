@@ -6,3 +6,4 @@ Feature: Parent gives kid money
     Given Parent is logged in and has children
     When Parent selects child
     Then Parent should see an option to give money
+    
