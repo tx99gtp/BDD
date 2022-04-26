@@ -6,3 +6,4 @@ Feature: Parent creating child accounts
     Given that I am a logged in parent
     When I view the the kid list page
     Then I should see a link to add kid
+    
